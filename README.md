@@ -9,3 +9,5 @@ Meu primeiro projeto web.
 
 ## Objetivo
 Aprender a utilizar Git e GitHub.
+
+Projeto desenvolvido para praticar Git e GitHub.
