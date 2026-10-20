@@ -1,15 +1,11 @@
-
 # Meu Site
 
-Projeto simples desenvolvido para a atividade de Git e GitHub.
+Meu primeiro projeto web.
 
 ## Tecnologias
 - HTML
 - CSS
 - JavaScript
 
-## Funcionalidades
-- Exibição de três imagens.
-- Estilização com CSS.
-- Botão interativo com JavaScript.
-
+## Objetivo
+Aprender a utilizar Git e GitHub.
